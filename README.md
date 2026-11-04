@@ -1,6 +1,6 @@
 # Windows cross-assembler for Data General Nova
 
-<img src="asmdemo.png"
+<img src="./asmdemo.png" width="600">
 
 This is a Windows .exe file. Write your Nova assembly code in the Source panel, select Assemble in the Action menu (or ctrl-A), and save as absolute binary (File menu).
 
